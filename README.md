@@ -2,8 +2,8 @@
   <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/Logo.png?raw=true" alt="car-quiz-logo" height="50">
 </div>
 <div align="center">
-  <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/start.png" width="400">
-  <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/finish.png" width="400">
+  <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/Start.png" width="400">
+  <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/Finish.png" width="400">
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Open Trivia](https://opentdb.com/)
