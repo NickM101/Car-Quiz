@@ -1,20 +1,20 @@
 <div align="center">
-  <img src=" src/images/logo.png" alt="car-quiz-logo" height="50">
+  <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/Logo.png?raw=true" alt="car-quiz-logo" height="50">
 </div>
 <div align="center">
-  <img src=" src/images/start.png" width="400">
-  <img src=" src/images/finish.png" width="400">
+  <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/start.png" width="400">
+  <img src="https://github.com/NickM101/Car-Quiz/blob/main/src/images/finish.png" width="400">
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Open Trivia](https://opentdb.com/)
 
-**_Car quiz_** is Q & A application that has multiple choices to choose from. The application is based on vehicle related information.
+**_Car quiz_** is a quiz application that is based on vehicles. For every question there is multiple choices to choose from and scores are rated after answering
 
 ## Installation
 
 ` npm install && npm start`
 
-##### :warning: Nodejs is required
+##### :warning:  Nodejs is required
 
 ## Licensing
 
